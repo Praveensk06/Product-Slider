@@ -1,7 +1,6 @@
 // get elements
 const images = document.querySelectorAll('.img a');
 const imgSelect = document.querySelectorAll('.img');
-
 const plusBtn=document.getElementById('plus');
 const minusBtn = document.getElementById("minus");
 const qtyEl = document.getElementById("quantity");
@@ -9,6 +8,7 @@ const qtyEl = document.getElementById("quantity");
 
 
 // global variables
+
 let imgId = 1;
 
 
